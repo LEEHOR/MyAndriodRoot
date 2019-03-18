@@ -1,4 +1,4 @@
-# MyAndriodRoot
+# MyAndroidRoot
     主要基于以下开源框架封装的MVP模式开发模板，方便后续开发下载即用，无需每次启动项目重复搭建。
         目前为第一版，后续会逐步完善。
              //RxLifecycle
